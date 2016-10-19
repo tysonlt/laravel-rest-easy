@@ -2,6 +2,7 @@
     "name": "tysonlt/laravel-rest-easy",
     "description": "Sausage-factory classes to create documented rest controllers and views.",
     "type": "library",
+    "version": "0.0.1-dev",
     "authors": [
         {
             "name": "Tyson LT",
